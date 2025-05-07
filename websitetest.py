@@ -1,5 +1,10 @@
 import streamlit as st  
 import pandas as pd
+st.title("Welcom to my team")
+st.header("this is create by Amit agarwal")
+st.subheader("this is my first streamlit app")
+
+
 # # import openpyxl 
 # dataset = pd.read_excel("D:\BIMINING REPORTS\AMIT  BI-MINING REPORTS\life summary\MAJAOR BREAKDOWN\ACCIDENTIAL TRUCK RECORD @ BINA SITE.xlsx")
 # st.dataframe(dataset)
